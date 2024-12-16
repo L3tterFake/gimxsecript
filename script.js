@@ -26,7 +26,7 @@ document.getElementById("loveIn").onclick = function () {
 };
 
 async function inipesan() {
-  vketikhalo = "Haloo Araaa ✨";
+  vketikhalo = "Haloo Sayanggg ✨";
   mulainama();
 }
 
